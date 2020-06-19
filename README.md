@@ -2,17 +2,17 @@
 A collection of data packs that I have made for minecraft.
 
 ## Contents
-[AFK Detector](AFK-Detector)  
-[Auto Lag Clearer](Auto-Lag-Clearer)  
+[AFK Detector](#AFK-Detector)  
+[Auto Lag Clearer](#Auto-Lag-Clearer)  
 [Custom Chair](#Custom-Chair)  
-[Chest Backpacks](Chest-Backpacks)  
-[Coordinate Display](Coordinate-Display)  
-[Exploding Arrows](Exploding-Arrows)  
-[Extra Recipes](Extra-Recipes)  
-[Item Mixing](Item-Mixing)  
-[Minecraft Manhunt](Minecraft-Manhunt)  
-[Slabs to Blocks](Slabs-to-Blocks)  
-[Thru Command](Thru-command)
+[Chest Backpacks](#Chest-Backpacks)  
+[Coordinate Display](#Coordinate-Display)  
+[Exploding Arrows](#Exploding-Arrows)  
+[Extra Recipes](#Extra-Recipes)  
+[Item Mixing](#Item-Mixing)  
+[Minecraft Manhunt](#Minecraft-Manhunt)  
+[Slabs to Blocks](#Slabs-to-Blocks)  
+[Thru Command](#Thru-command)
 <br><br><br>
 ### AFK detector
 This datapack will detect if a player is afk. If a player is afk then a message will be displayed in the chat, notifying others that they are afk.  
