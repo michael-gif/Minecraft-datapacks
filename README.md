@@ -4,7 +4,7 @@ A collection of data packs that I have made for minecraft.
 ## Contents
 [AFK Detector](AFK-Detector)  
 [Auto Lag Clearer](Auto-Lag-Clearer)  
-[Custom Chair](Custom-Chair)  
+[Custom Chair](#Custom-Chair)  
 [Chest Backpacks](Chest-Backpacks)  
 [Coordinate Display](Coordinate-Display)  
 [Exploding Arrows](Exploding-Arrows)  
